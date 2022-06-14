@@ -46,5 +46,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Authors
 
-- [@RoshanKrSharma](https://github.com/RoshanKrSharma)
+- [@PrakashSarangi](https://github.com/PrakashSarangi)
 
